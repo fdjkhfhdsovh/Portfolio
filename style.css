@@ -1,0 +1,19 @@
+html{
+    background-image: linear-gradient(aquamarine,lawngreen );
+    font-family: sans-serif;
+}
+.avatarki img{
+    width:150px;
+
+}
+.avatarki{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+}
+a{
+    text-decoration: none;
+    color: rgb(81, 81, 81);
+    font-size: 30px;
+}
